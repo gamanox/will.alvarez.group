@@ -42,11 +42,13 @@ const SEO = () => {
       <meta name="msapplication-TileColor" content="#ffffff" />
       <meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png" />
       <meta name="theme-color" content="#ffffff" />
+      <meta httpEquiv="ScreenOrientation" content="autoRotate:disabled" />
       <meta name="msapplication-TileColor" content={config.backgroundColor} />
       <meta name="msapplication-config" content="browserconfig.xml" />
       <meta name="description" content={description} />
       <meta name="image" content={image} />
       <script type="application/ld+json">{JSON.stringify(schemaOrgJSONLD)}</script>
+      <meta httpEquiv="ScreenOrientation" content="autoRotate:disabled" />
       <meta property="og:locale" content={config.ogLanguage} />
       <meta property="og:site_name" content={config.ogSiteName} />
       <meta property="og:title" content={title} />
