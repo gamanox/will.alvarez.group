@@ -292,7 +292,7 @@ const Index = () => (
             It was a fun ride, scrumify some projects, cheer the dev team, developing full e-commerce sites, API
             services, config AWS servers, animating html elements, leading a developers group, lead a product design
             process, even making some 3D in canvas. And of course knowing how to get rid of some common bugs easily.
-            Maybe I could join yo in your journey of developing the next big thing.
+            Maybe I could join you in your journey of developing the next big thing.
           </AboutDesc>
 
           <AboutDesc>
