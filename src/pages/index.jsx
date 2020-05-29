@@ -223,16 +223,7 @@ const Index = () => (
             >
               Real state website for a local brand. Helping translate the design into a website.
             </ProjectCard>
-            <ProjectCard
-              title="Teamcompass"
-              link="http://teamcompass.mx"
-              bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
-            >
-              I have the opportunity to work in a very small startup in monterrey, méxico. Two investors, one salesman ,
-              one support person, and me as a developer. The objective here was to build a TMS with the ability to
-              answer geolocated reports. (Management, Planning, UI/UX and Development. With technologies like Ruby on
-              Rails, Angular JS, NodeJS, AWS, Digital Ocean, REST, Web Services, Dev Op, Deployment)
-            </ProjectCard>
+            
           </ProjectsWrapper>
         </Inner>
       </Content>
