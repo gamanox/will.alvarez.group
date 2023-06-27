@@ -216,13 +216,7 @@ const Index = () => (
               An old site for Unilever Folicure that I helped build with some animations and parallax effects when that was the big thing.
               (Frontend, JS Animation, use of this technologies: css, JavaScript)
             </ProjectCard>
-            <ProjectCard
-              title="Bautek Real State"
-              link="http://www.bautek.com.mx"
-              bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
-            >
-              Real state website for a local brand. Helping translate the design into a website.
-            </ProjectCard>
+           
             
           </ProjectsWrapper>
         </Inner>
